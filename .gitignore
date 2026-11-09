@@ -1,0 +1,25 @@
+# Operating System files
+[Dd]esktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
+$RECYCLE.BIN/
+
+# Proteus Workspace & Backup Files
+*.DBK
+*.PWI
+*.pwi
+*.dbk
+*.BACKUP*
+*.backup*
+
+# Archive duplicates (sources already extracted)
+*.rar
+*.zip
+*.7z
+
+# Temporary and Editor Files
+*.tmp
+*.bak
+*~
+*.swp
